@@ -1,0 +1,8 @@
+===================== Binary Search TREE INDEX =====================================
+
+A 2
+Goodbye 3
+Hello 1
+Hey 4, 5
+John 5
+World 1
